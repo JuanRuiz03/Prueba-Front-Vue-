@@ -1,0 +1,22 @@
+{
+  "name": "vue-usuarios",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "vue": "^3.5.13",
+    "vuetify": "^3.8.10",
+    "sass": "^1.89.2",
+    "sass-loader": "^10.5.2",
+    "@mdi/font": "^7.2.96"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^5.2.3",
+    "vite": "^6.3.5"
+  }
+}
